@@ -1,8 +1,14 @@
-body {
-    font-family: 'Raleway', sans-serif;
+.jumbotron {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  background: url("../images/train-image.jpg");
+  background-repeat: no-repeat;
+  background-size: 1500px 300px;
+  width: 1000px;
+  margin: auto;
+  border-radius: 25px;
 }
 
-.jumbotron{
-    text-align: center;
-    font-family: 'Raleway', sans-serif;
+.table {
+  font-family: "Raleway", sans-serif;
 }
